@@ -1,0 +1,7 @@
+# https://docs.conan.io/en/latest/reference/conanfile_txt.html
+[requires]
+catch2/[>=2.11]
+
+# https://docs.conan.io/en/latest/reference/generators.html#generators-reference
+[generators]
+cmake_find_package
