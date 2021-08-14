@@ -1,0 +1,8 @@
+[requires]
+boost/1.75.0
+openssl/1.1.1k
+bzip2/1.0.8
+zlib-ng/2.0.2
+
+[generators]
+cmake_find_package
