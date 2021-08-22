@@ -456,3 +456,4 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/cmake,c++,visualstudio,visualstudiocode
 6주차 실습/build-debug
+7주차 실습/build-x64-osx
